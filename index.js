@@ -1,4 +1,4 @@
-#! usr/bin/env/ node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 // ------------------------------------Game Variables------------------------------------
 let enemies = ["Zombie", "Skeleton", "Alien", "Dragon"];
